@@ -54,7 +54,7 @@ Published and documented the dashboard for GitHub, making it easy to view and un
 
 [dashboard](https://github.com/Sowfin/Amazon-Combined-Data-Dashboard/blob/main/dashboard.jpg)
 
-##Final Conclusion
+## Final Conclusion
 The Amazon Sales Dashboard provides a clear and interactive view of key business metrics such as orders, revenue, reviews, and shipment performance. By visualizing category-wise trends and yearly patterns, the dashboard helps identify top-performing products, understand customer engagement, and highlight improvement areas. Overall, it serves as a valuable tool for making informed, data-driven decisions.
 
 How evenly are sales distributed across different product categories?
