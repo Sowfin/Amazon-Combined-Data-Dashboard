@@ -2,7 +2,7 @@
 Amazon Sales Dashboard built in Power BI showing order counts, revenue, reviews, shipment analysis, and category-wise trends. Includes bar charts, donut charts, map view, treemap, and yearly product description trends. Provides clear insights into top categories, sales performance, and customer engagement.
 ## Project Objective
 To analyze Amazon sales data using Power BI, providing insights into orders, revenue, reviews, shipment regions, and product trends to support data-driven decision-making.
-##Questions KPI 
+## Questions KPI 
 
 Which product categories generate the highest number of orders?
 
@@ -20,10 +20,10 @@ Which categories show the lowest sales and need improvement?
 
 What is the relationship between reviews and product demand?
 
-##Dashboard
+## Dashboard
 <a href="https://github.com/Sowfin/Amazon-Combined-Data-Dashboard/blob/main/dashboard.jpg"> View Dashboard </a>
 
-##Process
+## Process
 Process
 
 Data Collection
@@ -50,7 +50,7 @@ Interpreted visual outputs to identify sales patterns, top categories, shipment 
 Final Deployment
 Published and documented the dashboard for GitHub, making it easy to view and understand.
 
-##Dashboard
+## Dashboard
 
 [dashboard](https://github.com/Sowfin/Amazon-Combined-Data-Dashboard/blob/main/dashboard.jpg)
 
